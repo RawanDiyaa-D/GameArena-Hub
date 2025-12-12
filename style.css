@@ -534,6 +534,7 @@ nav .nav-actions svg:hover {
   background-color: var(--main-color);
   width: 64px;
   height: 64px;
+ flex-shrink: 0;
 }
 
 .info-box-icon svg {
